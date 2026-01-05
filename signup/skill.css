@@ -73,7 +73,7 @@ footer {
     color: white;
     text-align: center;
     padding: 12px 15px;
-    margin-top: 30px;
+    margin-top: auto;
     font-size: 11px;
 }
 
@@ -2468,4 +2468,5 @@ p {
 /*
    END OF COMPLETE RESPONSIVE CSS
     */
+
 
