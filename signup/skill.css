@@ -372,11 +372,15 @@ p {
 
 .contact1 {
     background: linear-gradient(135deg, #04062c 40%, #4a0080 70%, #d63384 100%);
+    display: flex;
+   flex-direction: column;
+   min-height: 100vh;
 }
 
 .contact1 .contact-section {
     text-align: center;
     padding: 30px 15px;
+    flex: 1;
 }
 
 .contact1 .contact-section h1 {
@@ -2464,3 +2468,4 @@ p {
 /*
    END OF COMPLETE RESPONSIVE CSS
     */
+
